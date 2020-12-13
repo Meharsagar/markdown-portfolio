@@ -1,1 +1,1 @@
-[LinkedIn]https://www.linkedin.com/in/meharsagar/
+[LinkedIn](https://www.linkedin.com/in/meharsagar/)
