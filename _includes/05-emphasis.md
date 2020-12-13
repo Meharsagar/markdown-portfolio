@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am Star :+1:*
+
+**I am Star :sparkles:**
+
+-I am Star :smiley:-
+
+--I am Star :smile:--
+
+--I am *Star* :smile:--
