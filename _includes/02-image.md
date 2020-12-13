@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Meharsagar Profile Pic](https://media-exp1.licdn.com/dms/image/C5103AQHArS90qq95zQ/profile-displayphoto-shrink_200_200/0/1562838971051?e=1613606400&v=beta&t=rZzJ81nogN4jANs-UM7UInUolpZ_DRf0HfEI5Uiq23s)
